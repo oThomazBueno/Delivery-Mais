@@ -1,0 +1,15 @@
+.produto:hover {
+    background-color: rgb(238, 238, 238);
+}
+
+.produto a {
+    text-decoration: none;
+}
+
+.produto span {
+    color: rgb(53, 53, 53);
+}
+
+.produto p {
+    color: rgb(61, 61, 61);
+}

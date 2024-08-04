@@ -1,0 +1,21 @@
+.fa-star {
+    color: yellow;
+    font-size: 20px;
+}
+
+.pedido {
+    border-radius: 8px;
+}
+
+.pedido:hover {
+    background-color: rgb(238, 238, 238);
+}
+
+.pedido a {
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+}
+
+.col-3 img {
+    max-width: 100%;
+}

@@ -1,0 +1,27 @@
+.estabelecimento {
+    border-radius: 8px;
+    transition: all .25s;
+}
+
+.estabelecimento a{
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+}
+
+.estabelecimento:hover {
+    background-color: rgb(238, 238, 238);
+}
+
+.img-estabelecimento {
+    max-width: 100%;
+}
+
+.fa-star {
+    color: yellow;
+}
+
+.avaliacao span {
+    color: rgb(56, 56, 56);
+    font-size: 14px;
+    padding: 4px;
+}
